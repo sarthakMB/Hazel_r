@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Hp\Desktop\Hazel_dev\Hazel_p_s\bin\Debug-x64\Hazel_p\Hazel_p.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Hp\Desktop\Hazel_dev\Hazel_p_s\bin\Debug-x64\Sandbox\Sandbox.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
